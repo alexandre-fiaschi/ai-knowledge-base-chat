@@ -22,7 +22,7 @@ Mockup
 Flow Chart
 
 1. The user presses send, and we gather their input.
-2. Save User Input: We save the user input to our conversation history as “Human”.
+2. We save the user input to our conversation history as “Human”.
 
 - From the user input, we create a standalone question, which is a concise version of the query reduced to the minimum number of words needed to express the request for information.
 - If previous conversation history is available, it is used to provide extra context for creating the standalone question.
