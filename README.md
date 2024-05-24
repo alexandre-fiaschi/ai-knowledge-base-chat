@@ -15,7 +15,7 @@ To run the app you need:
 ---
 
 Mockup
-![App mockup](images/app-mokup.png)
+![App mockup](images/app-mockup.png)
 
 ---
 
