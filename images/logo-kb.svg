@@ -1,0 +1,11 @@
+<svg width="900" height="130" viewBox="0 0 900 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_146_225)">
+    <!-- Added book icon -->
+    <text x="0" y="70" fill="#FEFEFE" font-family="Arial, sans-serif" font-size="95" font-weight="bold">KnowledgeBase</text>
+  </g>
+  <defs>
+    <clipPath id="clip0_146_225">
+      <rect width="900" height="900" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>

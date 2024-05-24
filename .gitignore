@@ -1,0 +1,7 @@
+.env
+dist
+.parcel-cache
+node_modules
+output.json
+scrimbaInfo.txt
+notes.txt
